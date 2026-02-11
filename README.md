@@ -1,6 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Trainee AI Developer at a software house<br><br>Building AI-powered backend systems using FastAPI<br><br>REST APIs for AI models, OCR pipelines & RAG systems<br><br>Generative AI projects (LLMs, agents, multimodal workflows)<br><br>Automation Testing (SQA) during professional training<br><br>Containerized AI apps using Docker & Docker Compose<br><br>AI tools with Docker, Ollama, llama.cpp<br><br>👯 I’m looking to collaborate on<br>AI / ML / GenAI projects<br><br>Backend + AI integrated projects<br><br>FastAPI / Python backend systems<br><br>LLM-based applications (chatbots, RAG, agents)<br><br>Open-source projects related to AI, backend & automation<br><br>🤝 I’m looking for help with<br><br>Scalable backend architecture for AI systems<br><br>Advanced API optimization & async workflows<br><br>Deployment pipelines (Docker, CI/CD basics)<br><br>Industry-level backend + AI best practices<br><br>🌱 I’m currently learning<br><br>Backend development with FastAPI<br><br>LangChain, Vector Databases, RAG pipelines<br><br>FastAPI for production-ready AI APIs<br><br>Database handling (PostgreSQL, SQLite, multitenancy basics)<br><br>Authentication & authorization in APIs<br><br>Vector databases & retrieval pipelines<br><br>Automation testing tools (Selenium, PyTest, Postman)<br><br>💬 Ask me about<br><br>FastAPI backend design<br><br>Python async APIs<br><br>AI + backend integration<br><br>OCR & document-based AI<br><br>RAG systems & vector stores<br><br>⚡ Fun fact<br><br>I love turning AI models into real backend services<br><br>Debugging backend + AI together taught me real engineering<br><br>I’m building my career step-by-step toward becoming a professional AI Engineer
+🔭 AI Developer | Building AI-powered backend systems with FastAPI
 
+REST APIs for AI models, OCR pipelines & RAG systems
+
+Generative AI: LLMs, agents, multimodal workflows
+
+Containerized AI apps using Docker, Ollama, llama.cpp
+
+Automation Testing (SQA) during training
+
+👯 Collaborating on: AI/ML/GenAI projects, FastAPI backend, LLM applications, open-source AI & automation
+
+🤝 Seeking guidance on: Scalable backend architecture, async API workflows, Docker & CI/CD, industry-level AI backend best practices
+
+🌱 Learning: FastAPI production APIs, LangChain, Vector DBs, RAG pipelines, API auth, database handling, automation testing tools
+
+💬 Ask me about: FastAPI backend design, Python async APIs, AI+backend integration, OCR & document AI, RAG systems
+
+⚡ Fun fact: I turn AI models into real backend services—debugging them taught me real AI engineering
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ali.ai.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadalimurad92@gmail.com) 
